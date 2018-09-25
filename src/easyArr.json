@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "image": "/colors/color1.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/colors/color2.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/colors/color3.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/colors/color4.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/colors/color5.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/colors/color11.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/colors/color12.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/colors/color13.png",
+      "selected": false
+    },
+    {
+      "id": 9,
+      "image": "/colors/color14.png",
+      "selected": false
+    },
+    {
+      "id": 10,
+      "image": "/colors/color15.png",
+      "selected": false
+    }
+  ]
