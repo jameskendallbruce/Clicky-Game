@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "image": "/colors/color1.png",
+      "selected": false
+    },
+    {
+      "id": 2,
+      "image": "/colors/color2.png",
+      "selected": false
+    },
+    {
+      "id": 3,
+      "image": "/colors/color3.png",
+      "selected": false
+    },
+    {
+      "id": 4,
+      "image": "/colors/color4.png",
+      "selected": false
+    },
+    {
+      "id": 5,
+      "image": "/colors/color5.png",
+      "selected": false
+    },
+    {
+      "id": 6,
+      "image": "/colors/color6.png",
+      "selected": false
+    },
+    {
+      "id": 7,
+      "image": "/colors/color7.png",
+      "selected": false
+    },
+    {
+      "id": 8,
+      "image": "/colors/color8.png",
+      "selected": false
+    },
+    {
+      "id": 9,
+      "image": "/colors/color9.png",
+      "selected": false
+    },
+    {
+      "id": 10,
+      "image": "/colors/color10.png",
+      "selected": false
+    },
+    {
+      "id": 11,
+      "image": "/colors/color11.png",
+      "selected": false
+    },
+    {
+      "id": 12,
+      "image": "/colors/color12.png",
+      "selected": false
+    },
+    {
+      "id": 13,
+      "image": "/colors/color13.png",
+      "selected": false
+    },
+    {
+      "id": 14,
+      "image": "/colors/color14.png",
+      "selected": false
+    },
+    {
+      "id": 15,
+      "image": "/colors/color15.png",
+      "selected": false
+    }
+  ]

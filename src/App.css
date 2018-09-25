@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: rgb(3, 39, 48);
+  height: 175px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+#clickyGame {
+  font-family: 'Megrim', cursive;
+  text-shadow: 1px 1px 2px lightskyblue, 0 0 25px white, 0 0 5px darkblue;
+}
+
+.instructions {
+  font-family: 'Poiret One', cursive;
+}
