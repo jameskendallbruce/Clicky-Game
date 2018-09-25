@@ -3,7 +3,7 @@ import GameCard from "./components/GameCard";
 import Wrapper from "./components/Wrapper";
 import colorsArr from "./colorsArr.json";
 import "./App.css";
-// import easyArr from "./easyArr.json"
+import easyArr from "./easyArr.json"
 
 import logo from './logo.svg';
 
@@ -20,7 +20,7 @@ class App extends  React.Component {
   // This is important to keep our json the same but allow people to alter an individual "instance" of our friends array.
   state = {
     colorsArr,
-    // easyArr,
+    easyArr,
     scoreNow: 0,
     scoreBest: 0,
     EndScreen: "",
@@ -36,6 +36,11 @@ class App extends  React.Component {
       this.reset();
     }
   };
+
+  playEasy = (event) => {
+    event.preventDefault();
+    this.setState({ colorsArr: easyArr })
+  }
 
   updateScore = () => {
     const newScore = this.state.scoreNow + 1;
@@ -83,6 +88,7 @@ class App extends  React.Component {
             </div>
             <div className="col-1">
               <img src={logo} className="App-logo row" alt="logo"/>
+              <button id="easyMode" onClick={playEasy()}>Switch to Easy Mode</button>
             </div>
             <div className="col-4 offset-2 instructions">
               <h2 className="App-title">Click each color only once.</h2> 

@@ -26,26 +26,51 @@
     },
     {
       "id": 6,
-      "image": "/colors/color11.png",
+      "image": "/colors/color6.png",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "/colors/color12.png",
+      "image": "/colors/color7.png",
       "clicked": false
     },
     {
       "id": 8,
+      "image": "/colors/color8.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/colors/color9.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/colors/color10.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/colors/color11.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/colors/color12.png",
+      "clicked": false
+    },
+    {
+      "id": 13,
       "image": "/colors/color13.png",
       "selected": false
     },
     {
-      "id": 9,
+      "id": 14,
       "image": "/colors/color14.png",
       "selected": false
     },
     {
-      "id": 10,
+      "id": 15,
       "image": "/colors/color15.png",
       "selected": false
     }
